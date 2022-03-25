@@ -63,3 +63,10 @@ img.next-image {
 .nav-line .nav-link {
   color: #69778c;
 }
+
+        /* patch img */
+        img {
+          width: 100%;
+          height: auto;
+        }
+        
